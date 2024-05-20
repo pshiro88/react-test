@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-test/static/css/main.99e694e3.css",
+    "main.js": "/react-test/static/js/main.ace61aa4.js",
+    "static/js/453.ed3810f9.chunk.js": "/react-test/static/js/453.ed3810f9.chunk.js",
+    "static/media/hero-video.mp4": "/react-test/static/media/hero-video.ef661cd85855187512ef.mp4",
+    "static/media/mountains.jpg": "/react-test/static/media/mountains.28a493f1df850f4c1609.jpg",
+    "static/media/Insights.jpg": "/react-test/static/media/Insights.06f990aa82a9621312fb.jpg",
+    "static/media/ship.jpg": "/react-test/static/media/ship.5ae5b0a90d47c3c5cb19.jpg",
+    "static/media/logo.png": "/react-test/static/media/logo.c562bf0577003aeb0aa6.png",
+    "static/media/ShmStore-logo-feeter.svg": "/react-test/static/media/ShmStore-logo-feeter.a8bca8334b557b36b1a2d71c338f6304.svg",
+    "static/media/blue-wavy.svg": "/react-test/static/media/blue-wavy.d69425bf794e400ba1d408db46179b28.svg",
+    "static/media/orange-wavy.svg": "/react-test/static/media/orange-wavy.0aaf8f55dbace3b02727981d69a23ad9.svg",
+    "index.html": "/react-test/index.html",
+    "main.99e694e3.css.map": "/react-test/static/css/main.99e694e3.css.map",
+    "main.ace61aa4.js.map": "/react-test/static/js/main.ace61aa4.js.map",
+    "453.ed3810f9.chunk.js.map": "/react-test/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99e694e3.css",
+    "static/js/main.ace61aa4.js"
+  ]
+}
